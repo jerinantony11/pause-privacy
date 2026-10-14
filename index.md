@@ -1,6 +1,6 @@
 # Pause Privacy Policy
 
-Last updated: [11 September 2026]
+Last updated: 14 October 2026
 
 Pause is designed to keep your data on your device.
 
@@ -25,4 +25,4 @@ Pause Plus is handled by Apple. We never see your payment details. Apple's
 privacy policy covers that transaction.
 
 ## Contact
-Questions? Email [jerinantony1@icloud.com].
+Questions? Email jerinantony1@icloud.com.
